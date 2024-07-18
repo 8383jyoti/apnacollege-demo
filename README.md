@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first repostitory
+This is my first Repository.
+Author - Jyoti Kumari
